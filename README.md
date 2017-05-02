@@ -1,1 +1,2 @@
 # MachineLearning
+Following: https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md
